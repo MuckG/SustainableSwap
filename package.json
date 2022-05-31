@@ -1,0 +1,27 @@
+{
+    "name": "sustainable-swap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "devStart": "nodemon index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@git.generalassemb.ly:mauriceg/sustainable-swap.git"
+    },
+    "keywords": [],
+    "author": "Maurice Gordon",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^6.3.3"
+    },
+    "devDependencies": {
+      "dotenv": "^16.0.1",
+      "nodemon": "^2.0.16"
+    }
+  }
+  
