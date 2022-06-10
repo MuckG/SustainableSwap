@@ -9,6 +9,6 @@ pipeline {
 
   }
   environment {
-    Env = '1'
+    MY_ENV = '1'
   }
 }
